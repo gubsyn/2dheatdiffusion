@@ -1,16 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-TRABALHO FINAL 
-MÉTODOS MATEMÁTICOS (PMC03)
-
-Alunos:
-    Gustavo Pereira
-    Pedro Ignacio
-    Rodrigo Kalko
-    
-Resolução da EDP
-"""
 
 import matplotlib.pyplot as plt
 from scipy.integrate import simpson
